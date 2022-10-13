@@ -53,7 +53,7 @@ class CanFrame:
 
     def add_stuff_bits(self,message: str)->str:
         #TODO: beautify this function
-        stuff_size=5
+        stuff_size=5    #bits
         i=0
         tmp=list(message)
         while i+stuff_size<=len(tmp):

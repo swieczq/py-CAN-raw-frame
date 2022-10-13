@@ -12,3 +12,4 @@ TO DO:
 * Make it a cli application using Fire
 * Extended CAN frame handling
 * detailed view of the frame
+* Make a GUI for manual playing with CAN format
